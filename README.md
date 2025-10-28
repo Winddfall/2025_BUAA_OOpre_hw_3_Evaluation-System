@@ -1,4 +1,4 @@
-# OOpre hw2 Oracle评测机
+# OOpre hw3 Difference评测机
 
 ## 用前须知：
 
@@ -20,22 +20,4 @@ python main.py <java代码目录> -n <测试用例数量> -op <每个测试用�
 
   `input_data`：输入样例
 
-  `ground_truth`：标准输出
-
   `output_data`：你的输出
-
-## 评测通过
-
-```shell
---- Checking outputs ---
-Test case 1 PASSED.
-Test case 2 PASSED.
-Test case 3 PASSED.
-Test case 4 PASSED.
-Test case 5 PASSED.
-Test case 6 PASSED.
-Test case 7 PASSED.
-Test case 8 PASSED.
-Test case 9 PASSED.
-Test case 10 PASSED.
-```
